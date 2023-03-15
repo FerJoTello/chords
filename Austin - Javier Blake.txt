@@ -49,7 +49,7 @@ C6-C (X2)
 VERSO:
 C                            C6
 Hoy me entero te casaste ayer.
-C                                 G6
+C                              C6 G6
 Yo por segunda vez antier me divorcié.
               C6          C     C6
 Lo digo del alma, lo intenté.
@@ -57,7 +57,7 @@ C                           C6
 Un mensaje cuando desperté.
 C                              G6
 Sin remitente pero sé perfecto quién.
-
+           C6              C    G6   
 Eran dos palabras: "te esperé".
 
 CORO:
@@ -65,7 +65,11 @@ C6              G6              C           C6
 Te dirán que el tiempo olvida y tal vez es verdad
 C6               G6           C             C6
 Que lo que no es tuyo tarde o temprano se irá
-C6                                       G6
+C6           G6          Am
 Pero ambos sabemos nadie nos puede engañar
-Am                                      Am
+           C6             G6          Am
+Siempre pensé acabariamos juntos al final.
+           C6             G6          Am
+Siempre pensé acabariamos juntos al final.
+           C6             G6          C     C6-C
 Siempre pensé acabariamos juntos al final.
